@@ -8,7 +8,7 @@ Full stack web development
 →Open source projects
 →Product design and user experience
 
-##Badges 
+## Badges 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
