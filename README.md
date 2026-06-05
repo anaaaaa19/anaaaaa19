@@ -8,6 +8,25 @@ Full stack web development
 →Open source projects
 →Product design and user experience
 
+##Badges 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+## GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=anaaaaa19&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=anaaaaa19&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaaaaa19&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 I am always learning, experimenting, and working on projects that make technology more accessible and impactful.
 
 
