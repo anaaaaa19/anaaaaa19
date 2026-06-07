@@ -21,11 +21,7 @@ Full stack web development
 
 ## GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anaaaaa19&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=anaaaaa19&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaaaaa19&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 I am always learning, experimenting, and working on projects that make technology more accessible and impactful.
 
